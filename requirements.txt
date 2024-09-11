@@ -1,0 +1,2 @@
+fastapi~=0.114.1
+starlette~=0.38.5

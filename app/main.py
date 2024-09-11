@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Depends
-import auth
+from app import auth
 
 app = FastAPI()
 
